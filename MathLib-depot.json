@@ -1,0 +1,10 @@
+[
+    {
+    "metadata": {
+      "location": "https://github.com/OkapiLib/OkapiLib/releases/download/v3.1.0/okapilib.3.1.0.zip"
+    },
+    "name": "mathlib",
+    "target": "v5",
+    "version": "1.0.0"
+  }
+]
